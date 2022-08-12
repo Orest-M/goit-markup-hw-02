@@ -1,6 +1,6 @@
 body {
-    background-color: #F5F5F5;
-    font-family: 'Roboto', 'Raleway', sans-serif;
+    background-color: #fff;
+    font-family: 'Roboto';
 }
 
 .link {
@@ -31,7 +31,7 @@ body {
     letter-spacing: 0.03em;
 }
 
-.nav-studio:hover, .nav-portfolio:hover, .nav-contacts:hover, .header-contacts:hover, .footer-mail:hover, .footer-phone:hover {
+.nav-studio:hover, .nav-portfolio:hover, .nav-contacts:hover, .header-contacts:hover, .footer-mail:hover, .footer-phone:hover, .footer-address:hover {
     color: #2196F3;
 }
 
